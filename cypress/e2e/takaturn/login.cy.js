@@ -49,6 +49,6 @@ describe('Takaturn - Login test cases', () => {
     cy.url().should('eq', Cypress.env('baseUrl') + 'dashboard?tab=ongoing');
     cy.contains('Welcome to Takaturn Playground!').should('exist').should('be.visible')
   })
-
+ 
 
 })
