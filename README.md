@@ -1,3 +1,6 @@
+The following project is a Cypress Automation Suite created in VSCode 
+The task was to automate a few test cases using Cypress for a company website.
+
 
 Instructions on how to run...
 
